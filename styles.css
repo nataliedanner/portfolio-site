@@ -1,9 +1,9 @@
 :root {
-    --usf-green: #006747;
-    --usf-gold: #FDBB30;
+    --khaki: #8E7766;
+    --brown: #4E3829;
     --white: #FFFFFF;
     --text-dark: #333333;
-    --link-hover: #FDBB30;
+    --link-hover: #9B9B84;
   }
   
   body {
@@ -16,7 +16,7 @@
   }
   
   header {
-    background-color: var(--usf-green);
+    background-color: var(--khaki);
     color: var(--white);
     padding: 2rem;
     text-align: center;
@@ -43,8 +43,8 @@
   }
   
   h2 {
-    color: var(--usf-green);
-    border-bottom: 2px solid var(--usf-gold);
+    color: var(--khaki);
+    border-bottom: 2px solid var(--brown);
     padding-bottom: 0.3rem;
   }
   
@@ -58,7 +58,7 @@
   }
   
   a {
-    color: var(--usf-green);
+    color: var(--khaki);
     text-decoration: none;
   }
   
@@ -68,7 +68,7 @@
   }
   
   footer {
-    background-color: var(--usf-green);
+    background-color: var(--khaki);
     color: var(--white);
     text-align: center;
     padding: 1rem;
